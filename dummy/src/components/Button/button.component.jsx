@@ -1,12 +1,9 @@
 const Button = () => {
-    return(
-        <>
-        <button style={{padding:'10px'}}>
-            Click me
-        </button>
-        </>
-    );
-}
-
+  return (
+    <>
+      <button style={{ padding: "10px" }}>Click meeeeee</button>
+    </>
+  );
+};
 
 export default Button;
