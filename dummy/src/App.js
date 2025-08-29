@@ -7,8 +7,7 @@ function App() {
     <div className="App">
       <Button />
       <Button />
-      <p>App js</p>
-      <h3>nheaing 3</h3>
+      <h2>djslka</h2>
     </div>
   );
 }
