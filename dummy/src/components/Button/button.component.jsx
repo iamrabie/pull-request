@@ -2,7 +2,7 @@ const Button = () => {
     return(
         <>
         <button style={{padding:'10px'}}>
-            Click me
+            merge the code
         </button>
         </>
     );
